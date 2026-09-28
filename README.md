@@ -121,15 +121,21 @@ Follow the prompt in Chapter 3 of *Critical Web Design* ...
 
 <details>
 <summary>Past examples</summary>
-  
+
+- 2026
+  - [Sophie](https://somajernik-gif.github.io/dig245-unbranding/)
+  - [Shannon](https://shhendrick24.github.io/dig245-unbranding/)
+- 2025
+  - [Matthew](https://matthewpearso.github.io/dig245-unbranding/)  
+  - [Dmytro](https://dmku33.github.io/web-dev-unbranding/)
 - 2023
-    - [Jeremy](https://jeremykemp1.github.io/dig245-unbranding/)
-    - [Patrick](https://patrick-leary.github.io/dig245-unbranding/)
-    - [Tyler](https://tyleryandt18.github.io/dig245-unbranding/)
-    - [David](https://yodering.github.io/dig245-unbranding)
-    - [Isabel](https://isabelra26.github.io/dig245-unbranding/)
-    - [Richard](https://aequor29.github.io/dig245-unbranding/)
-    - [Riana](https://rianadoctor.github.io/dig245-unbranding/)
-    - [Will](https://wcox2.github.io/dig245-unbranding/)
+  - [Jeremy](https://jeremykemp1.github.io/dig245-unbranding/)
+  - [Patrick](https://patrick-leary.github.io/dig245-unbranding/)
+  - [Tyler](https://tyleryandt18.github.io/dig245-unbranding/)
+  - [David](https://yodering.github.io/dig245-unbranding)
+  - [Isabel](https://isabelra26.github.io/dig245-unbranding/)
+  - [Richard](https://aequor29.github.io/dig245-unbranding/)
+  - [Riana](https://rianadoctor.github.io/dig245-unbranding/)
+  - [Will](https://wcox2.github.io/dig245-unbranding/)
 
 </details>
