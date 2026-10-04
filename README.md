@@ -47,7 +47,7 @@ See Moodle.
 
 ## Warning
 
-Do not make a website that could be perceived as a phishing site. For example, the Facebook login screen. This may get your account flagged.
+Do not make a website that could be perceived as a phishing site. For example, a site that looks like the Facebook login screen may get your account flagged.
 
 
 
